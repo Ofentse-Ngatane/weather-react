@@ -1,9 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-let apiKey = "97f8e93f00107773f88eafd933ce86b7";
-let apiUrl = "https://api.openweathermap.org/data/2.5/weather";
-
 export default function WeatherSearch() {
   let [city, setCity] = useState("");
   let [loaded, setLoaded] = useState(false);
