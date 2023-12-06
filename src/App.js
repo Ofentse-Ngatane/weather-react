@@ -8,7 +8,7 @@ function App() {
       <Weather />
       <p>
         <a
-          href="https://github.com/Ofentse-Ngatane"
+          href="https://github.com/Ofentse-Ngatane/weather-react"
           target="_blank"
           rel="noopener noreferrer"
         >
